@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Hello, I'm Douglas Alves, actually I'm learning and working at the <strong>back-end</strong> area.<br>
-  I'm currently working at <strong>@moorseio</strong> and studying <strong>Computer Science</strong> at <strong>UFCG</strong>. 
+  I'm currently working at <a href="https://github.com/moorseio/"><strong>@moorseio</strong></a> and studying <strong>Computer Science</strong> at <strong>UFCG</strong>. 
 </p>
 
 <p>
