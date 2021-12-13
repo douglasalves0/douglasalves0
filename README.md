@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**douglasalves0/douglasalves0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Hello, I'm Douglas Alves, actually I'm learning and working at the <strong>back-end</strong> area.<br>
+  I'm currently working at <strong>@moorseio</strong> and studying <strong>Computer Science</strong> at <strong>UFCG</strong>. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+
+💌 You can reach me at: ⤵️
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=douglas.sousa@ccc.ufcg.edu.br" /></a>
+
+</p>  
