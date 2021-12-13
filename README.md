@@ -6,13 +6,4 @@
   I'm currently working at <a href="https://github.com/moorseio/"><strong>@moorseio</strong></a> and studying <strong>Computer Science</strong> at <strong>UFCG</strong>. 
 </p>
 
-<p>
-💌 You can reach me at: ⤵️
-</p>
-
-<p align="left">
-
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=douglas.sousa@ccc.ufcg.edu.br" /></a>
-
-</p>  
+💌 You can reach me at: douglas.sousa@ccc.ufcg.edu.br
